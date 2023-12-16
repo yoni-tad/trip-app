@@ -1,4 +1,4 @@
-# Donut App UI
+# Trip App UI
 
 ## Description
 
